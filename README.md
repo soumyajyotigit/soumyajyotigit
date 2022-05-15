@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajyotigit&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajyotigit" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyajyotigit" alt="soumyajyotigit" /></a> </p>
+alt="soumyajyotigit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyajyotigit" 
 
 <p align="left"> <a href="https://twitter.com/soumyaaspeaketh" target="blank"><img src="https://img.shields.io/twitter/follow/soumyaaspeaketh?logo=twitter&style=for-the-badge" alt="soumyaaspeaketh" /></a> </p>
 
