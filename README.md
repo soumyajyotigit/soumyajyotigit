@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumyaaspeaketh" target="blank"><img src="https://img.shields.io/twitter/follow/soumyaaspeaketh?logo=twitter&style=for-the-badge" alt="soumyaaspeaketh" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Java script**
+- 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [https://soumyajyotime.blogspot.com/](https://soumyajyotime.blogspot.com/)
 
