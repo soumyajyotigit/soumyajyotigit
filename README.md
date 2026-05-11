@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- <img src="https://github.com/soumyajyotigit.png" width="130px" style="border-radius:50%; border: 3px solid #E94560; margin-top:-10px"/> -->
-<img src="https://raw.githubusercontent.com/soumyajyotigit/soumyajyotigit/main/github%20pic2.jpg" width="130px" style="border-radius:50%; border: 3px solid #E94560; margin-top:-10px"/>
+<img src="https://github.com/soumyajyotigit.png" width="130px" style="border-radius:50%; border: 3px solid #E94560; margin-top:-10px"/>
+<!-- <img src="https://raw.githubusercontent.com/soumyajyotigit/soumyajyotigit/main/github%20pic2.jpg" width="130px" style="border-radius:50%; border: 3px solid #E94560; margin-top:-10px"/> -->
 
 <br/>
 
