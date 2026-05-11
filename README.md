@@ -1,12 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a1a2e,60:16213e,100:0f3460&height=220&section=header&text=Soumyajyoti%20Karmakar&fontSize=52&fontColor=E94560&fontAlignY=40&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Cloud-Native%20Engineer&descSize=17&descAlignY=62&descColor=a8b2d8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a1a2e,60:16213e,100:0f3460&height=220&section=header&text=Soumyajyoti%20Karmakar&fontSize=52&fontColor=000000&fontAlignY=40&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Cloud-Native%20Engineer&descSize=17&descAlignY=62&descColor=000000&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://github.com/soumyajyotigit.png" width="130px" style="border-radius:50%; border: 3px solid #E94560; margin-top:-10px"/>
+<!-- <img src="https://github.com/soumyajyotigit.png" width="130px" style="border-radius:50%; border: 3px solid #E94560; margin-top:-10px"/> -->
+<img src="https://raw.githubusercontent.com/soumyajyotigit/soumyajyotigit/main/github%20pic2.jpg" width="130px" style="border-radius:50%; border: 3px solid #E94560; margin-top:-10px"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Soumyajyoti+%F0%9F%91%8B;3%2B+years+building+things+for+the+web+%F0%9F%8C%90;I+ship+AI-powered%2C+cloud-native+apps+%F0%9F%9A%80;Painter+%7C+Theatre+person+%7C+Code+nerd+%F0%9F%8E%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Soumyajyoti+%F0%9F%91%8B;3%2B+years+building+things+for+the+web+%F0%9F%8C%90;I+ship+AI-powered%2C+cloud-native+apps+%F0%9F%9A%80;M.Tech+(Dropped+out)+%7C+Code+nerd+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,46 +26,46 @@
 
 Hey! I'm **Soumyajyoti** — a full-stack developer from **Kolkata, India 🇮🇳** with 3+ years of experience building scalable web apps and integrating AI into production systems.
 
-I studied **Computer Science Engineering** (CGPA: **8.43**) and have been hands-on ever since — from REST APIs and microservices to Kubernetes deployments and OpenAI integrations.
+I studied **B.Tech in CSE** and **M.Tech in Cyber Security (Dropped out)** and have been hands-on ever since — from REST APIs and microservices to Kubernetes deployments and OpenAI integrations.
 
-Outside code, I'm into **theatre 🎭**, **painting 🎨**, and the occasional deep-dive into maths problems. I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so yes, the nerd runs deep.
+I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so yes, the nerd runs deep.
 
 🔭 Currently deepening: **System Design + DevSecOps**  
 🌱 Exploring: **AI Security + LLM-powered applications**  
 💬 Ask me about: **MERN stack, Docker, Kubernetes, AI APIs**  
-⚡ Fun fact: I'm a theatre person who writes production-grade code
+⚡ Fun fact: I write production-grade code while listening to lo-fi beats
 
 ---
 
 ## 💼 What I've Worked On
 
-> *(Real work, no company names)*
+### 🤖 AI-Driven Platform Engineering
 
-### 🤖 AI-Driven Platform Engineering *(2025 – Present)*
-```
-↳ Built MERN stack applications for an AI-powered educational platform
-↳ Integrated OpenAI APIs for intelligent feedback & content processing
-↳ Designed and secured REST APIs — auth, authorization, data validation
-↳ Managed Kubernetes workloads: pods, deployments, services at scale
-↳ Optimized Docker images and handled versioning across environments
-↳ Architected microservices with cross-functional teams
-```
+✨ Built MERN stack applications for an AI-powered educational platform
+✨ Integrated OpenAI APIs for intelligent feedback & content processing
+✨ Designed and secured REST APIs — auth, authorization, data validation
+✨ Managed Kubernetes workloads: pods, deployments, services at scale
+✨ Optimized Docker images and handled versioning across environments
+✨ Architected microservices with cross-functional teams
 
-### 🌐 Full-Stack Web Development *(2023 – 2025)*
-```
-↳ Developed production web apps with React.js + Node.js + Express.js
-↳ Built and consumed RESTful APIs for seamless frontend-backend flow
-↳ Handled both MongoDB and SQL databases for diverse data requirements
-↳ Delivered responsive, performant UI components at scale
-```
 
-### 🔬 ML Research & Optimization *(2021 – 2022)*
-```
-↳ Research intern at IIT Patna — built Python ML modules from scratch
-↳ Developed dynamic pricing models for electromobility research
-↳ Assisted in debugging, optimization & testing of ML workflows
-↳ Contributed to research in energy pricing & optimization systems
-```
+### 🌐 Full-Stack Web Development
+🚀 Developed production web apps with React.js + Node.js + Express.js
+🚀 Built and consumed RESTful APIs for seamless frontend-backend flow
+🚀 Handled both MongoDB and SQL databases for diverse data requirements
+🚀 Delivered responsive, performant UI components at scale
+🚀 Implemented JWT authentication and role-based access control
+🚀 Optimized application performance with caching strategies
+
+
+### 🔬 ML Research & Optimization
+
+🧠 Research intern at IIT Patna — built Python ML modules from scratch
+🧠 Developed dynamic pricing models for electromobility research
+🧠 Assisted in debugging, optimization & testing of ML workflows
+🧠 Contributed to research in energy pricing & optimization systems
+🧠 Worked with Pandas, NumPy, and scikit-learn for data processing
+
 
 ---
 
@@ -162,7 +163,6 @@ Outside code, I'm into **theatre 🎭**, **painting 🎨**, and the occasional d
 | ⚔️ | **CodeChef / Codeforces** | **150+** problems — Highest Rating: **980** |
 | ⭐ | **HackerRank** | **5-Star** in Java & C++ |
 | 🎓 | **Harvard University** | Data Science & ML Certification |
-| 🎭 | **Theatre & Arts** | Active performer and painter |
 
 ---
 
