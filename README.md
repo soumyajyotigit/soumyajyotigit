@@ -40,27 +40,27 @@ I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so ye
 ## 💼 What I've Worked On
 
 ### 🤖 AI-Driven Platform Engineering
-- ✨ Built MERN stack applications for an AI-powered educational platform
-- ✨ Integrated OpenAI APIs for intelligent feedback & content processing
-- ✨ Designed and secured REST APIs — auth, authorization, data validation
-- ✨ Managed Kubernetes workloads: pods, deployments, services at scale
-- ✨ Optimized Docker images and handled versioning across environments
-- ✨ Architected microservices with cross-functional teams
+-  Built MERN stack applications for an AI-powered educational platform
+-  Integrated OpenAI APIs for intelligent feedback & content processing
+-  Designed and secured REST APIs — auth, authorization, data validation
+-  Managed Kubernetes workloads: pods, deployments, services at scale
+-  Optimized Docker images and handled versioning across environments
+-  Architected microservices with cross-functional teams
 
 ### 🌐 Full-Stack Web Development
-- 🚀 Developed production web apps with React.js + Node.js + Express.js
-- 🚀 Built and consumed RESTful APIs for seamless frontend-backend flow
-- 🚀 Handled both MongoDB and SQL databases for diverse data requirements
-- 🚀 Delivered responsive, performant UI components at scale
-- 🚀 Implemented JWT authentication and role-based access control
-- 🚀 Optimized application performance with caching strategies
+-  Developed production web apps with React.js + Node.js + Express.js
+-  Built and consumed RESTful APIs for seamless frontend-backend flow
+-  Handled both MongoDB and SQL databases for diverse data requirements
+-  Delivered responsive, performant UI components at scale
+-  Implemented JWT authentication and role-based access control
+-  Optimized application performance with caching strategies
 
 ### 🔬 ML Research & Optimization
-- 🧠 Research intern at IIT Patna — built Python ML modules from scratch
-- 🧠 Developed dynamic pricing models for electromobility research
-- 🧠 Assisted in debugging, optimization & testing of ML workflows
-- 🧠 Contributed to research in energy pricing & optimization systems
-- 🧠 Worked with Pandas, NumPy, and scikit-learn for data processing
+-  Research intern at IIT Patna — built Python ML modules from scratch
+-  Developed dynamic pricing models for electromobility research
+-  Assisted in debugging, optimization & testing of ML workflows
+-  Contributed to research in energy pricing & optimization systems
+-  Worked with Pandas, NumPy, and scikit-learn for data processing
 
 
 ---
