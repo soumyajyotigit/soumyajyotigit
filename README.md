@@ -142,17 +142,19 @@ I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so ye
 
 <div align="center">
 
-<!-- Alternative Stats Cards that actually work -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=radical&hide_border=true" width="49%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajyotigit&layout=compact&theme=radical&hide_border=true" width="40%"/>
+<!-- Using different service URLs -->
+<img src="https://github-readme-stats.vercel.app/api?username=soumyajyotigit&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajyotigit&layout=compact&theme=radical" width="48%"/>
 
 <br/><br/>
 
-<!-- Simple stats card without complex parameters -->
-<img src="https://github-readme-stats.vercel.app/api?username=soumyajyotigit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=radical" width="80%"/>
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumyajyotigit/soumyajyotigit/main/github-metrics.svg" alt="Metrics" width="80%"/>
+</p>
 
 ---
 
