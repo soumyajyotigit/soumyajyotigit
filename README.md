@@ -26,7 +26,7 @@
 
 Hey! I'm **Soumyajyoti** — a full-stack developer from **India 🇮🇳** with 3+ years of experience building scalable web apps and integrating AI into production systems.
 
-I studied **B.Tech in CSE** and **M.Tech in Cyber Security (Dropped out)** and have been hands-on ever since — from REST APIs and microservices to Kubernetes deployments and OpenAI integrations.
+I studied **B.Tech in CSE** and **M.Tech in Cyber Security(National Importance) (Dropped out)** and have been hands-on ever since — from REST APIs and microservices to Kubernetes deployments and OpenAI integrations.
 
 I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so yes, the nerd runs deep.
 
