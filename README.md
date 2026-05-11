@@ -142,7 +142,7 @@ I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so ye
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=radical" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=radical" width="60%"/>
 
 </div>
 
