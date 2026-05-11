@@ -142,14 +142,16 @@ I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so ye
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumyajyotigit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="175"/>
+<!-- Alternative Stats Cards that actually work -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=radical&hide_border=true" width="49%"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajyotigit&layout=compact&theme=radical" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajyotigit&layout=compact&theme=radical&hide_border=true" width="40%"/>
 
 <br/><br/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=radical" width="62%"/> -->
-<img src="https://streak-stats.demolab.com/?user=soumyajyotigit&theme=radical" width="62%"/>
+<!-- Simple stats card without complex parameters -->
+<img src="https://github-readme-stats.vercel.app/api?username=soumyajyotigit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="80%"/>
+
 </div>
 
 ---
