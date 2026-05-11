@@ -128,7 +128,7 @@ I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so ye
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=soumyajyotigit&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=E94560&icon_color=E94560&text_color=a8b2d8&ring_color=E94560&include_all_commits=true&count_private=true" height="175"/>
 &nbsp;&nbsp;
@@ -137,6 +137,18 @@ I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so ye
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=transparent&hide_border=true&background=0d1117&ring=E94560&fire=E94560&currStreakLabel=E94560&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff" width="62%"/>
+
+</div> -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=soumyajyotigit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajyotigit&layout=compact&theme=radical" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajyotigit&theme=radical" width="62%"/>
 
 </div>
 
