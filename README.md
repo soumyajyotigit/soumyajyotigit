@@ -182,7 +182,7 @@ I ranked **#1 among 2000+ students** in a state-level Mathematics exam — so ye
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyajyotigit&theme=react-dark&bg_color=0d1117&color=E94560&line=E94560&point=ffffff&hide_border=true&area=true&area_color=E94560" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyajyotigit&theme=react-dark&bg_color=0d1117&color=E94560&line=E94560&point=ffffff&hide_border=true&area=true&area_color=E94560" width="80%"/>
 
 ---
 
